@@ -1,0 +1,80 @@
+
+.section{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.main-heading{
+  color: rgb(0, 0, 0);
+  font-size: 55px;
+}
+
+.main-headingNosotros{
+  color: rgb(0, 0, 0);
+  font-size: 45px;
+  padding-top: 20px;
+  padding-block: 40px;
+}
+
+.main-headingNos{
+  color: rgb(68, 255, 0);
+  font-size: 25px;
+  padding-top: 20px;
+  padding-block: 40px;
+}
+
+.main-heading1{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+.main-heading-a{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+.underline{
+  height: 04px;
+  width: 4rem;
+  background-color: rgb(38, 37, 37);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bg-c-light{
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+
+.footer{
+  padding: top;
+}
+
+
+.footer a{
+  color: rgb(9, 255, 0);
+  text-decoration: none !important;
+}
+
+.footer a:hover{
+  color: rgb(255, 255, 255);
+}
+
+.Minavbar{
+  position: fixed;
+  z-index: 200;
+  width: 100%;
+  background-color: rgb(20, 89, 2)!important;
+}
+
+.nav-item a{
+  color:white!important;
+}
+
+.nav-item a:hover{
+  color: rgb(5, 245, 5)!important;
+}
+
+.btn btn boton{
+  color: green!important;
+}
