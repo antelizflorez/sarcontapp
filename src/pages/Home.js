@@ -9,8 +9,7 @@ function Home () {
 
             <Slider/>
 
-             
-
+    
             <section className='section' id='section-cata'>
                 <div className="container">
                     <div className='row'>
@@ -61,7 +60,6 @@ function Home () {
                     </div>
                 </div>
             </section>
-
         </div>
     );
 

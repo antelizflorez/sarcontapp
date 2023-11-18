@@ -19,14 +19,14 @@ function Footer () {
                         <hr/>
                         <div><Link to="/Home">Home</Link></div>
                         <div><Link to="/Nosotros">Nosotros</Link></div>
-                        <div><Link to="/Contacto">Contacto</Link></div>
+                        <div><Link to="/Servicios">Servicios</Link></div>
                     </div>
                     <div className="col-md-4">
                         <h6>Informacion de contactos</h6>
                         <hr/>
-                        <div><p className="text-white mb-1">direccion del local: Cll 10 av0 Cucuta</p></div>
-                        <div><p className="text-white mb-1">telefono: 3176477559</p></div>
-                        <div><p className="text-white mb-1">email: est_aa_anteliz@fesc.edu.co</p></div>
+                        <div><p className="text-white mb-1">direccion del local: Cll 11 4-46 San Luis</p></div>
+                        <div><p className="text-white mb-1">telefono: 321 3716330</p></div>
+                        <div><p className="text-white mb-1">email: katherine-8227@hotmail.com</p></div>
                     </div>
                 </div>
             </div>

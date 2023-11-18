@@ -98,11 +98,11 @@ function Nosotros () {
                                 Conoce nuestras redes sociales:
                                 </p>
                                 <hr/>
-                                <ul><p>Facebook: @ModaVirtualOficial</p></ul>
-                                <ul><p>Instagram: @ModaVirtualOficial</p></ul>
-                                <ul><p>whatsapp: @ModaVirtualOficial</p></ul>
+                                <ul><p>Facebook: @FundacionRedSocialCucuta</p></ul>
+                                <ul><p>Instagram: @FundacionRedSocialCucuta</p></ul>
+                                <ul><p>whatsapp: @FundacionRedSocialCucuta</p></ul>
                                 <hr/>
-                                <Link to="/Contacto" class="btn btn-warning">¡Contactanos!</Link>
+                                <Link to="/Home" class="btn btn-warning">¡Contactanos!</Link>
                             </div>
                         </div>
                     </div>
